@@ -1,0 +1,35 @@
+{
+	"tournaments" : [
+		{
+			"id" : "t1",
+			"name" : "tournament name",
+			"totalteams" : 10,
+			"fixtures" : [
+				{
+					"matchno" : 1,
+					"date" : "12/01/21",
+					"time" : "1 PM",
+					"home_team" : "team a",
+					"away_team" : "team b",
+					"status" : "NOT_STARTED",
+				},
+				{
+					"matchno" : 2,
+					"date" : "12/01/21",
+					"time" : "2 PM",
+					"home_team" : "team c",
+					"away_team" : "team d",
+					"status" : "NOT_STARTED"
+				},
+				{
+					"matchno" : 3,
+					"date" : "12/01/21",
+					"time" : "2 PM",
+					"home_team" : "team c",
+					"away_team" : "team d",
+					"status" : "NOT_STARTED"
+				}
+			]
+		}
+	]
+}
